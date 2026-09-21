@@ -1,0 +1,15 @@
+{
+  "updatedAt": "2026-09-21T20:25:00.000Z",
+  "fx": { "gbpUsd": null, "usdGbp": null, "source": "seed" },
+  "quotes": {
+    "TSM": { "priceGbp": 333.01414, "prevCloseGbp": null, "dayPct": null, "source": "Bank screenshot seed", "marketAsOf": "2026-09-21" },
+    "TXN": { "priceGbp": 202.64083, "prevCloseGbp": null, "dayPct": null, "source": "Bank screenshot seed", "marketAsOf": "2026-09-21" },
+    "GSK": { "priceGbp": 19.11, "prevCloseGbp": null, "dayPct": null, "source": "Bank screenshot seed", "marketAsOf": "2026-09-21" },
+    "QCOM": { "priceGbp": 145.3056, "prevCloseGbp": null, "dayPct": null, "source": "Bank screenshot seed", "marketAsOf": "2026-09-21" },
+    "SNPS": { "priceGbp": 300.62841, "prevCloseGbp": null, "dayPct": null, "source": "Bank screenshot seed", "marketAsOf": "2026-09-21" },
+    "MYKAAN": { "priceGbp": 1.12157, "prevCloseGbp": null, "dayPct": null, "source": "Bank screenshot seed", "marketAsOf": "2026-09-21" },
+    "AVGO": { "priceGbp": 271.30994, "prevCloseGbp": null, "dayPct": null, "source": "Bank screenshot seed", "marketAsOf": "2026-09-21" },
+    "CCJ": { "priceGbp": 69.74639, "prevCloseGbp": null, "dayPct": null, "source": "Bank screenshot seed", "marketAsOf": "2026-09-21" }
+  },
+  "history": { "TSM": [], "TXN": [], "GSK": [], "QCOM": [], "SNPS": [], "MYKAAN": [], "AVGO": [], "CCJ": [] }
+}

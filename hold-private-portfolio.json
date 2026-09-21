@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "positions": {
+    "TSM": { "quantity": 20, "bookCost": 6675.49 },
+    "TXN": { "quantity": 9, "bookCost": 1938.85 },
+    "GSK": { "quantity": 1, "bookCost": 26.92 },
+    "QCOM": { "quantity": 7, "bookCost": 1066.72 },
+    "SNPS": { "quantity": 3, "bookCost": 1142.41 },
+    "MYKAAN": { "quantity": 619.923, "bookCost": 700.00 },
+    "AVGO": { "quantity": 10, "bookCost": 3188.72 },
+    "CCJ": { "quantity": 20, "bookCost": 1712.33 }
+  }
+}
