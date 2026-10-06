@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T00:59:48.803Z",
+  "updatedAt": "2026-10-06T07:28:24.731Z",
   "fx": {
     "gbpUsd": 1.3225,
     "usdGbp": 0.756144,
@@ -25,11 +25,11 @@
       "nativeCurrency": "USD"
     },
     "GSK": {
-      "priceGbp": 17.59,
-      "prevCloseGbp": 17.795,
-      "dayPct": -1.152,
+      "priceGbp": 17.815,
+      "prevCloseGbp": 17.59,
+      "dayPct": 1.2791,
       "source": "Financial Times market data",
-      "marketAsOf": "2026-10-05T00:00:00.000Z",
+      "marketAsOf": "2026-10-06T00:00:00.000Z",
       "symbol": "GSK.L",
       "nativeCurrency": "GBp"
     },
@@ -3262,6 +3262,10 @@
       {
         "t": 1791158400,
         "priceGbp": 17.59
+      },
+      {
+        "t": 1791244800,
+        "priceGbp": 17.815
       }
     ],
     "QCOM": [
