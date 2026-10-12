@@ -1,71 +1,71 @@
 {
-  "updatedAt": "2026-10-12T12:24:07.602Z",
+  "updatedAt": "2026-10-12T21:21:11.550Z",
   "fx": {
-    "gbpUsd": 1.322,
-    "usdGbp": 0.75643,
+    "gbpUsd": 1.3235,
+    "usdGbp": 0.755572,
     "source": "Frankfurter (ECB reference rates)"
   },
   "quotes": {
     "TSM": {
-      "priceGbp": 344.156581,
-      "prevCloseGbp": 342.897126,
-      "dayPct": 0.3673,
+      "priceGbp": 337.009974,
+      "prevCloseGbp": 335.919909,
+      "dayPct": 0.3245,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-12T12:23:00.000Z",
+      "marketAsOf": "2026-10-12T21:20:00.000Z",
       "symbol": "TSM",
       "nativeCurrency": "USD"
     },
     "TXN": {
-      "priceGbp": 213.66944,
-      "prevCloseGbp": 214.629349,
-      "dayPct": -0.4472,
+      "priceGbp": 212.366075,
+      "prevCloseGbp": 212.874953,
+      "dayPct": -0.2391,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-12T12:21:00.000Z",
+      "marketAsOf": "2026-10-12T21:20:00.000Z",
       "symbol": "TXN",
       "nativeCurrency": "USD"
     },
     "GSK": {
-      "priceGbp": 17.63,
+      "priceGbp": 17.71,
       "prevCloseGbp": 17.5,
-      "dayPct": 0.7429,
+      "dayPct": 1.2,
       "source": "Financial Times market data",
       "marketAsOf": "2026-10-12T00:00:00.000Z",
       "symbol": "GSK.L",
       "nativeCurrency": "GBp"
     },
     "QCOM": {
-      "priceGbp": 132.110439,
-      "prevCloseGbp": 132.753404,
-      "dayPct": -0.4843,
+      "priceGbp": 131.790026,
+      "prevCloseGbp": 131.794484,
+      "dayPct": -0.0034,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-12T12:22:00.000Z",
+      "marketAsOf": "2026-10-12T21:21:00.000Z",
       "symbol": "QCOM",
       "nativeCurrency": "USD"
     },
     "SNPS": {
-      "priceGbp": 386.981846,
-      "prevCloseGbp": 385.771558,
-      "dayPct": 0.3137,
+      "priceGbp": 379.675104,
+      "prevCloseGbp": 379.68266,
+      "dayPct": -0.002,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-12T12:20:00.000Z",
+      "marketAsOf": "2026-10-12T21:21:00.000Z",
       "symbol": "SNPS",
       "nativeCurrency": "USD"
     },
     "AVGO": {
-      "priceGbp": 272.012103,
-      "prevCloseGbp": 273.479576,
-      "dayPct": -0.5366,
+      "priceGbp": 268.137514,
+      "prevCloseGbp": 268.024178,
+      "dayPct": 0.0423,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-12T12:23:00.000Z",
+      "marketAsOf": "2026-10-12T21:21:00.000Z",
       "symbol": "AVGO",
       "nativeCurrency": "USD"
     },
     "CCJ": {
-      "priceGbp": 66.376702,
-      "prevCloseGbp": 66.611195,
-      "dayPct": -0.352,
+      "priceGbp": 65.240574,
+      "prevCloseGbp": 65.06989,
+      "dayPct": 0.2623,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-12T12:22:00.000Z",
+      "marketAsOf": "2026-10-12T21:21:00.000Z",
       "symbol": "CCJ",
       "nativeCurrency": "USD"
     },
@@ -74,7 +74,7 @@
       "prevCloseGbp": 1.11,
       "dayPct": 0,
       "source": "BlackRock daily NAV",
-      "marketAsOf": "2026-10-09"
+      "marketAsOf": "2026-10-12"
     }
   },
   "history": {
@@ -3321,7 +3321,7 @@
       },
       {
         "t": 1791763200,
-        "priceGbp": 17.63
+        "priceGbp": 17.71
       }
     ],
     "QCOM": [
@@ -7695,6 +7695,10 @@
       },
       {
         "t": 1791547200,
+        "priceGbp": 1.11
+      },
+      {
+        "t": 1791806400,
         "priceGbp": 1.11
       }
     ]
