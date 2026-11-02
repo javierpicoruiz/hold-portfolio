@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T04:41:03.029Z",
+  "updatedAt": "2026-11-02T12:53:17.047Z",
   "fx": {
     "gbpUsd": 1.3399,
     "usdGbp": 0.746324,
@@ -7,65 +7,65 @@
   },
   "quotes": {
     "TSM": {
-      "priceGbp": 305.090007,
-      "prevCloseGbp": 303.067393,
-      "dayPct": 0.6674,
+      "priceGbp": 308.224494,
+      "prevCloseGbp": 303.104709,
+      "dayPct": 1.6891,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-30T23:47:00.000Z",
+      "marketAsOf": "2026-11-02T12:52:00.000Z",
       "symbol": "TSM",
       "nativeCurrency": "USD"
     },
     "TXN": {
-      "priceGbp": 225.375028,
+      "priceGbp": 227.778192,
       "prevCloseGbp": 224.524218,
-      "dayPct": 0.3789,
+      "dayPct": 1.4493,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-30T23:40:00.000Z",
+      "marketAsOf": "2026-11-02T12:46:00.000Z",
       "symbol": "TXN",
       "nativeCurrency": "USD"
     },
     "GSK": {
-      "priceGbp": 18.55,
-      "prevCloseGbp": 18.14,
-      "dayPct": 2.2602,
+      "priceGbp": 18.3918,
+      "prevCloseGbp": 18.55,
+      "dayPct": -0.8528,
       "source": "Financial Times market data",
-      "marketAsOf": "2026-10-30T00:00:00.000Z",
+      "marketAsOf": "2026-11-02T00:00:00.000Z",
       "symbol": "GSK.L",
       "nativeCurrency": "GBp"
     },
     "QCOM": {
-      "priceGbp": 123.53907,
+      "priceGbp": 124.11374,
       "prevCloseGbp": 122.98679,
-      "dayPct": 0.4491,
+      "dayPct": 0.9163,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-30T23:37:00.000Z",
+      "marketAsOf": "2026-11-02T12:50:00.000Z",
       "symbol": "QCOM",
       "nativeCurrency": "USD"
     },
     "SNPS": {
-      "priceGbp": 348.533473,
+      "priceGbp": 353.011419,
       "prevCloseGbp": 348.988731,
-      "dayPct": -0.1305,
+      "dayPct": 1.1527,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-30T23:31:00.000Z",
+      "marketAsOf": "2026-11-02T12:52:00.000Z",
       "symbol": "SNPS",
       "nativeCurrency": "USD"
     },
     "AVGO": {
-      "priceGbp": 244.226435,
+      "priceGbp": 243.46593,
       "prevCloseGbp": 243.361445,
-      "dayPct": 0.3554,
+      "dayPct": 0.0429,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-30T23:59:00.000Z",
+      "marketAsOf": "2026-11-02T12:53:00.000Z",
       "symbol": "AVGO",
       "nativeCurrency": "USD"
     },
     "CCJ": {
-      "priceGbp": 57.41018,
-      "prevCloseGbp": 57.388611,
-      "dayPct": 0.0376,
+      "priceGbp": 57.466975,
+      "prevCloseGbp": 57.399806,
+      "dayPct": 0.117,
       "source": "Nasdaq market data",
-      "marketAsOf": "2026-10-30T23:53:00.000Z",
+      "marketAsOf": "2026-11-02T12:49:00.000Z",
       "symbol": "CCJ",
       "nativeCurrency": "USD"
     },
@@ -1210,6 +1210,10 @@
       {
         "t": 1793307600,
         "priceGbp": 324.254712
+      },
+      {
+        "t": 1793394000,
+        "priceGbp": 303.104709
       }
     ],
     "TXN": [
@@ -2344,6 +2348,10 @@
       {
         "t": 1793307600,
         "priceGbp": 234.992866
+      },
+      {
+        "t": 1793394000,
+        "priceGbp": 224.524218
       }
     ],
     "GSK": [
@@ -3490,6 +3498,10 @@
       {
         "t": 1793318400,
         "priceGbp": 18.55
+      },
+      {
+        "t": 1793577600,
+        "priceGbp": 18.3918
       }
     ],
     "QCOM": [
@@ -4624,6 +4636,10 @@
       {
         "t": 1793307600,
         "priceGbp": 139.228054
+      },
+      {
+        "t": 1793394000,
+        "priceGbp": 122.98679
       }
     ],
     "SNPS": [
@@ -5758,6 +5774,10 @@
       {
         "t": 1793307600,
         "priceGbp": 368.093414
+      },
+      {
+        "t": 1793394000,
+        "priceGbp": 348.988731
       }
     ],
     "AVGO": [
@@ -6892,6 +6912,10 @@
       {
         "t": 1793307600,
         "priceGbp": 259.067358
+      },
+      {
+        "t": 1793394000,
+        "priceGbp": 243.361445
       }
     ],
     "CCJ": [
@@ -8026,6 +8050,10 @@
       {
         "t": 1793307600,
         "priceGbp": 62.694301
+      },
+      {
+        "t": 1793394000,
+        "priceGbp": 57.399806
       }
     ],
     "MYKAAN": [
